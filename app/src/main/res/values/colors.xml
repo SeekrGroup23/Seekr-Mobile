@@ -3,4 +3,14 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+<!--    Custom Colors Begin From Here-->
+
+    <color name="colorGreen">#4AC959</color>
+    <color name="colorGray">#455A64</color>
+    <color name="colorBlueLight">#34b7f1</color>
+    <color name="colorGreenLight">#dcf8c6</color>
+    <color name="colorBlueDark">#2962FF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
 </resources>
